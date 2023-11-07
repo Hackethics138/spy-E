@@ -4,6 +4,9 @@ Usage of Spy-E for attacking targets without prior mutual consent is illegal. It
 Usage:
 
 cd spy-E
+
 bash install.sh
+
 chmod +x spy-E
+
 ./spy-E
